@@ -4,4 +4,6 @@
 
 int main() {
     printf("Hello Word!");
+    printf("testando");
+    
 }
