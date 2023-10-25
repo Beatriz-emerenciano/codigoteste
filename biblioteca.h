@@ -1,4 +1,11 @@
 #ifndef PROJETOBANCO_BIBLIOTECA_H
 #define PROJETOBANCO_BIBLIOTECA_H
 
+
+soma(n,n2){
+
+    retun n + n2;
+
+}
+
 #endif //PROJETOBANCO_BIBLIOTECA_H
