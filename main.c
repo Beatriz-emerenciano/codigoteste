@@ -4,6 +4,6 @@
 
 int main() {
 
-printf("usuario beatriz fazendo alteracao no codigo");
+printf("usuario1 beatriz fazendo alteração no código");
     
 }
